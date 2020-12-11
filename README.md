@@ -3,9 +3,9 @@
 ## 実行手順
 
 ```bash
-$ git clone https://github.com/AI1411/docker-laravel-nuxt-postgres.git
+$ git clone git@github.com:AI1411/sakuton.git
 
-$ cd docker-laravel-nuxt-postgres
+$ cd sakuton
 
 $ make install
 ```
